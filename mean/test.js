@@ -1,2 +1,3 @@
-console.log(navigator.appName);
-console.log(navigator.appVersion);
+console.log(process.versions)
+console.log(process.arch)
+console.log(process.platform)
